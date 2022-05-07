@@ -1,0 +1,46 @@
+@font-face{
+	font-family: technology;
+	src: url("../assets/fonts/Technology.ttf");
+}
+
+body{
+	background-color: #0c0c0c;
+	color: white;
+	text-align: center;
+}
+.calculator{
+	color: initial;
+	background-color: #262626;
+	height: 330px;
+	width: 220px;
+	padding: 5px;
+	margin: auto;	
+}
+.screen{
+	font-family: technology;
+}
+.resultLine{
+	pointer-events: none;
+}
+.resultLine, .writeLine{
+	background-color: #8da78b;
+	border: none;
+	text-align: right;
+	/*letter-spacing: 1;*/
+}
+.button, .buttonC{
+	background-color: #595959;
+	border: none;
+	border-radius: 5px;
+	height: 100%;
+	width: 100%;
+}
+.buttonC{
+	background-color: #d32121;
+}
+.buttonErase{
+	background-color: #3c7a2e;
+}
+.buttonC, .buttonErase{
+	border-radius: 0px;
+}
