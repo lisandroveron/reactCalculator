@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lisandroveron/reactCalculator.git/static/css/main.ca407edc.css",
+    "main.js": "/lisandroveron/reactCalculator.git/static/js/main.b18f87e9.js",
+    "static/media/Technology.ttf": "/lisandroveron/reactCalculator.git/static/media/Technology.6b8f64e5bef62547dd4c.ttf",
+    "index.html": "/lisandroveron/reactCalculator.git/index.html",
+    "main.ca407edc.css.map": "/lisandroveron/reactCalculator.git/static/css/main.ca407edc.css.map",
+    "main.b18f87e9.js.map": "/lisandroveron/reactCalculator.git/static/js/main.b18f87e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca407edc.css",
+    "static/js/main.b18f87e9.js"
+  ]
+}
