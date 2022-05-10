@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/lisandroveron/reactCalculator.git/static/css/main.ca407edc.css",
-    "main.js": "/lisandroveron/reactCalculator.git/static/js/main.fa71076a.js",
-    "static/media/Technology.ttf": "/lisandroveron/reactCalculator.git/static/media/Technology.6b8f64e5bef62547dd4c.ttf",
-    "index.html": "/lisandroveron/reactCalculator.git/index.html",
-    "main.ca407edc.css.map": "/lisandroveron/reactCalculator.git/static/css/main.ca407edc.css.map",
-    "main.fa71076a.js.map": "/lisandroveron/reactCalculator.git/static/js/main.fa71076a.js.map"
+    "main.css": "/static/css/main.4ddd0b37.css",
+    "main.js": "/static/js/main.fa71076a.js",
+    "static/media/Technology.ttf": "/static/media/Technology.6b8f64e5bef62547dd4c.ttf",
+    "index.html": "/index.html",
+    "main.4ddd0b37.css.map": "/static/css/main.4ddd0b37.css.map",
+    "main.fa71076a.js.map": "/static/js/main.fa71076a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca407edc.css",
+    "static/css/main.4ddd0b37.css",
     "static/js/main.fa71076a.js"
   ]
 }
