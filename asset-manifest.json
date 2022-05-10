@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ddd0b37.css",
-    "main.js": "/static/js/main.fa71076a.js",
-    "static/media/Technology.ttf": "/static/media/Technology.6b8f64e5bef62547dd4c.ttf",
-    "index.html": "/index.html",
-    "main.4ddd0b37.css.map": "/static/css/main.4ddd0b37.css.map",
-    "main.fa71076a.js.map": "/static/js/main.fa71076a.js.map"
+    "main.css": "/reactCalculator/static/css/main.b3c6e930.css",
+    "main.js": "/reactCalculator/static/js/main.fa71076a.js",
+    "static/media/Technology.ttf": "/reactCalculator/static/media/Technology.6b8f64e5bef62547dd4c.ttf",
+    "index.html": "/reactCalculator/index.html",
+    "main.b3c6e930.css.map": "/reactCalculator/static/css/main.b3c6e930.css.map",
+    "main.fa71076a.js.map": "/reactCalculator/static/js/main.fa71076a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ddd0b37.css",
+    "static/css/main.b3c6e930.css",
     "static/js/main.fa71076a.js"
   ]
 }
